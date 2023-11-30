@@ -3,13 +3,12 @@
 const HomePage = () => {
   return (
     <div>
+        <div className="home-page">
 
-        <br></br>
-        <br></br>
-        <br></br>
-        
-        <h1>Bro's Hot Chicken</h1>
-        <h2>Can you Handle the Heat?</h2>
+        <h1 style={{ color: 'white' }}> Bro's Hot Chicken</h1>
+        <h2 style={{ color: 'white' }}> Can You Handle the Heat?</h2>
+
+        </div>
     </div>
   )
 }

@@ -29,7 +29,7 @@ const NavbarComponent = () => {
                 Hours
               </Nav.Link>
               <NavDropdown
-                title="Dropdown"
+                title="Order Now"
                 style={{ color: "white" }}
                 id="collapsible-nav-dropdown"
               >
